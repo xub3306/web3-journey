@@ -6,7 +6,7 @@
 
 - [x] 安装 Foundry(forge / cast / anvil / chisel)v1.8.3
 - [x] 安装 Node / pnpm
-- [ ] 建 GitHub 账号 + 公开仓库 `web3-journey`,推送首个 commit
+- [x] 建 GitHub 账号 + 公开仓库 `web3-journey`,推送首个 commit
 - [ ] 注册 X(Twitter),英文 bio: `Test engineer → Smart Contract Dev`
 - [ ] JS/TS 速通(见 `notes/js-ts-crash.md`,3~4h)
 - [ ] 注册 Cyfrin Updraft,看「Blockchain Basics」
@@ -54,8 +54,8 @@
 ## 每周记录
 
 ### Week 0
-- 投入时间:
-- 完成:
-- 卡点:
-- Commit 数:
-- 英语练习:
+- 投入时间:约 1h
+- 完成:Foundry v1.8.3 + pnpm 安装;PATH 持久化;forge 冒烟测试通过;建仓库并 push 到 GitHub(xub3306/web3-journey)
+- 卡点:暂无
+- Commit 数:2
+- 英语练习:待开始
